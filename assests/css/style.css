@@ -1,0 +1,545 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header start */
+.header{
+    background-color: black;
+}
+
+
+.icona ul{
+    display: flex;
+}
+.icona ul li {
+    list-style: none;
+    padding: 10px;
+}
+.icona ul li a{
+    text-decoration: none;
+    
+}
+.number ul{
+    display: flex;
+    float: right;
+    margin-top: -60px;
+}
+.number ul li {
+    list-style: none;
+    padding: 10px;
+    padding-left: 10px;
+}
+.number ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+.call{
+    color: black;
+    border-radius: 5px;
+    background-color: greenyellow;
+    height: 30px;
+    width: 150px;
+    font-weight: 500;
+    border-style: none;
+    margin-top: 5.5px;
+    margin-right: 10px;
+    
+}
+
+/* header end  */
+/* navbar start  */
+.right{
+    background: white;
+    
+}
+.right ul {
+    display:flex ;
+    float: right;
+    margin-top: -85px;
+    
+}
+.right ul li{
+  list-style: none;
+  padding: 15px
+  
+}
+.right ul li a {
+    text-decoration: none;
+    color:black;
+   font-weight: 500;
+    
+}
+.one{
+color: green;
+
+}
+.two{
+    color: black;
+    margin-top: -30px;
+}
+.logo{
+    padding-left: 25px;
+}
+/* navbar ends  */
+/* banner 1 start  */
+.s{
+    margin-bottom: 150px;
+}
+.a{
+   font-weight: bold;
+   font-size: 50px;
+ 
+   
+}
+.button{
+    color: black;
+    border-radius: 5px;
+    background-color: orange;
+    height: 30px;
+    width: 150px;
+    font-weight: bold;
+    border-style: none;
+}
+/* banner 1 ends  */
+/* banner 2 start */
+.three{
+    color: green;
+    padding-right: 15px;
+    
+    }
+    .four{
+        color: black;
+     
+    }
+    .container{
+        display: flex;
+        justify-content: center;
+        font-weight: bold;
+    }
+.b{
+    text-align: center;
+    font-size: x-small;
+    color: darkgrey;
+}
+.h{
+    margin-left: 400x;
+    padding-left: 70px;
+
+}
+.i{
+    margin-left: 70px;
+}
+.j{
+    margin-left: 70px;
+} 
+.k{
+    margin-left: 70px;
+} 
+.l{
+    margin-left: 70px;
+}
+.caption{
+    display: flex; 
+    margin-top: -80px; 
+}
+.caption p{
+    padding: 85px;
+    font-weight: bold;
+    color: black;
+    
+}
+.m{
+    margin-left: 7px;
+}
+.othercaption{
+    display: flex;
+    text-align: center;
+    font-size: x-small;
+    margin-top: -110px;
+    padding: 20px;
+    color: darkgrey;
+}
+.banner{
+    margin-top: 50px;
+}
+/* banner 2 ends here  */
+/* banner 3 starts here  */
+.bannera{
+    /* background-color: rgb(182, 180, 180); */
+    height: 450px;
+}
+.aboutus{
+    margin-left: 700px;
+}
+.n{
+    text-align: center;
+    width: 600px;
+    height: 200px;
+    justify-content: center;
+    margin-top: -300px;
+    text-align: justify;
+    margin-left: 50px;
+    line-break: anywhere;
+    color: black;
+    font-weight: bold;
+
+}
+.buttona{
+    color: black;
+    border-radius: 5px;
+    background-color: orange;
+    height: 30px;
+    width: 150px;
+    font-weight: bold;
+    border-style: none;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+/* banner 3 ends here  */
+/* banner 4 starts here  */
+.five{
+    color: white;
+    padding-right: 15px;
+    
+    }
+    .six{
+        color: green;
+     
+    }
+    .container{
+        display: flex;
+        justify-content: center;
+        font-weight: bold;
+    }
+    .c{
+        text-align: center;
+        font-size: x-small;
+        color: darkgrey;
+        margin-left: 30px;
+    }
+    .portfolionav ul{
+     display: flex;
+    
+    }
+    .portfolionav ul li{
+        list-style: none;
+        padding-left: 1px;
+        margin-left: 115px;
+        /* margin-right: -0.5px; */
+       
+    }
+    .portfolionav ul li a{
+        text-decoration: none;
+        color: white;
+        
+    }
+    .portfolio{
+        width: 1000px;
+      margin-left: 170px;
+      
+    }
+    .containera{
+        display: flex;
+        justify-content: center;
+        font-weight: bold;
+        margin-left: 10px;
+       padding-top: 20px;
+    }
+    .portfolioa{
+        background-color: black;
+    }
+    /* banner 4 ends here  */
+    /* banner 5 starts here  */
+    .seven{
+        color: black;
+        padding-right: 15px;
+        
+        }
+        .eight{
+            color: green;
+        }
+        .containerb {
+            display: flex;
+            justify-content: center;
+            font-weight: bold;
+            margin-left: 10px;
+            padding-top: 20px;
+        }   
+        .ourprocess{
+            margin-left: 100px;
+        } 
+        .captiona {
+            display: flex; 
+            margin-top: -80px; 
+        }
+        .captiona p{
+            padding: 40px;
+            font-weight: bold;
+            color: black;
+            margin: -7px;
+            margin-left: 40px;
+            margin-top: 45px;
+        }   
+        .othercaptiona {
+            display: flex;
+            text-align: center;
+            font-size: x-small;
+            margin-top: -45px;
+            padding: 20px;
+            color: darkgrey;
+        }
+       #o{
+        padding: 30px;
+        margin-top: 55px;
+       }
+        /* banner 5 ends here  */
+        /* banner 6 starts here  */
+        .nine{
+            color: black;
+            padding-right: 15px;
+            
+            }
+            .ten{
+                color: green;
+            }
+            .containerc {
+                display: flex;
+                justify-content: center;
+                font-weight: bold;
+                margin-left: 10px;
+                padding-top: 20px;
+            }       
+    .ourskillsimage{
+        margin-left: 200px;
+    }
+    .captionb{
+        display: flex;
+        margin-left: 100px;
+
+    }
+    .captionb p{
+        padding: 80px;
+        font-weight: bold;
+        color: black;
+        margin: -7px;
+        margin-left: 40px;
+        margin-top: -60px;
+    }
+      /* banner 6 ends here  */
+      /* banner 7 starts here  */
+      .form{
+        background-color:#87d43a;
+        height: 250px;
+        
+      }
+      .form h1{
+        color: white;
+        text-align: center;
+        padding-top: 40px;
+      }
+      .forma{
+      text-align: center;
+      padding: 20px;
+      word-spacing: 20px;
+    
+     
+      }
+      .request{
+        color: black;
+        border-radius: 5px;
+        background-color: orange;
+        height: 30px;
+        width: 150px;
+        font-weight: bold;
+        border-style: none;
+        margin-top: 5.5px;
+        margin-right: px;
+      }
+      .input{
+        border-style: none;
+        color: darkgrey;
+        border-radius: 3px;
+        height: 33px;
+      }
+      .d{
+        text-align: center;
+        font-size: x-small;
+        color: white;
+        margin-left: 30px;
+        padding-top: 20px;
+      }
+       /* banner 7 starts ends  */
+        /* banner 8 starts here  */
+        .containerd{
+        display: flex;
+        justify-content: center;
+        font-weight: bold;
+        padding-top: 20px;
+        }
+        .locationicon{
+            text-align: center;
+            margin-top: 20px;
+        }
+        .othericon ul{
+            display: flex;
+            
+        }
+        .othericon ul li {
+            list-style:  none;
+            padding-left: 220px;
+            margin-top: 10px;
+        }
+        .othericon ul li a{
+            text-decoration: none;
+            color: black;
+        }
+        /* banner 8 ends here  */
+        /* footer starts here  */
+        .footer{
+            background-color: rgb(108, 150, 37);
+            height: 300px;
+
+        }
+        .eleven{
+            color: aliceblue;
+            font-weight: bold;
+            
+            }
+            .twelve{
+                color: black;
+                margin-top: -30px;
+                font-weight: bold;
+            }
+        .f{
+            color: white;
+            font-size: small;
+        }  
+        .ff{
+            color: white;
+        }   
+        .parta{
+            margin-left: 50px;
+            padding-top: 25px;
+        }   
+        .partb{
+         margin-left: 350px;
+       margin-top: -240px;
+       color: white;
+       
+        }
+        .partb ul li{
+            list-style: none;
+        }
+        .partb ul li a{
+          font-size: small;
+            color: white;
+        }
+        .partb h3{
+            margin-left: 27px;
+        }
+        .verticalline{
+            border-left: 1px solid white;
+            height: 210px;
+            margin-left: 620px;
+            margin-top: -220px;
+            color: rgb(108, 150, 37);
+           
+        }
+        .partc{
+            margin-left: 650px;
+          margin-top: -221px;
+          color: white;
+          
+           }
+           .partc ul li{
+               list-style: none;
+           }
+           .partc ul li a{
+             
+               color: white;
+               font-size: small;
+           }
+           .partc h3{
+               margin-left: 27px;
+           }
+           .verticallinea{
+            border-left: 1px solid white;
+            height: 210px;
+            margin-left: 910px;
+            margin-top: -215px;
+            color: rgb(108, 150, 37);
+            
+           }
+           .partd{
+            margin-left: 980px;
+            margin-top: -221px;
+
+           }
+           .partd h3{
+            color: white;
+            margin-left: 27px;
+           }
+           .partd ul li{
+            list-style: none;
+           }
+           .partd ul li a{
+            text-decoration: none;
+            color: white;
+            font-size: small;
+           }
+           .partdicon ul {
+            display: flex;
+           }
+           .partdicon ul li{
+            letter-spacing: 10px;
+           }
+          .grey{
+            
+         color: gray;
+          }
+          /* hover starts */
+         .call:hover{
+           background-color: yellow;
+           font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+           font-weight: bold;
+         }
+         .right ul li a:hover{
+            font-weight: bold;
+           text-decoration: underline yellow 5px;
+         }
+         .button:hover{
+          font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+          font-weight: bold;
+          background-color: yellow;
+         }
+         .buttona:hover{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-weight: bold;
+            background-color: yellow;
+         }
+         .portfolionav ul li a:hover{
+            color: orange;
+            font-weight: bold;
+         }
+         .request:hover{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-weight: bold;
+            background-color: yellow;
+         }
+         .partb ul li a:hover{
+            font-weight: bold;
+         }
+         .partc ul li a:hover{
+            font-weight: bold;
+         }
+         .partd ul li a:hover{
+            font-weight: bold;
+         }
+        .number ul li a:hover{
+            font-weight: bold;
+        }
+        .icona ul li a:hover{
+            background-color: white;
+        }
+        /* hover ends  */
